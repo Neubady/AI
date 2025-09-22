@@ -1,0 +1,24 @@
+juramento math
+
+aliento danza_del_dios_del_fuego(nombre_cazador):
+    kagura(grito_de_guerra(nombre_cazador))
+    respiracion = invocar_respiration("Solar")
+    si cazador respiracion:
+        si cazador respiracion.tecnicas:
+            kagura("Formas heredadas:")
+            mision forma en respiracion.desplegar():
+                kagura(f" - {forma}")
+        sino demonio:
+            kagura("Tanjiro aún no ha dominado ninguna forma.")
+
+si cazador __name__ == "__main__":
+    forjar_respiration(
+        "Solar",
+        "Kamado Tanjiro",
+        [
+            tecnica("Primera Forma", "Golpe circular ardiente"),
+            tecnica("Tercera Forma", "Danza purificadora"),
+        ],
+    )
+
+    danza_del_dios_del_fuego("Kamado Tanjiro")
