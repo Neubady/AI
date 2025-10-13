@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Prompt del día",
+    "description": "Experimenta con prompts iterativos para obtener mejores respuestas en ChatGPT.",
+    "image": "https://cdn-icons-png.flaticon.com/512/4712/4712027.png"
+  },
+  {
+    "title": "Demo de Gemini",
+    "description": "Prueba el modo multimodal para subir imágenes y obtener análisis al instante.",
+    "image": "https://cdn-icons-png.flaticon.com/512/4712/4712104.png"
+  },
+  {
+    "title": "Genera tus propios datasets",
+    "description": "Usa Cohere Command para sintetizar datos de entrenamiento realistas.",
+    "image": "https://cdn-icons-png.flaticon.com/512/4413/4413665.png"
+  }
+]
