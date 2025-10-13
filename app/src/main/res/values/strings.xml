@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AI Nexus Hub</string>
+    <string name="tab_title_tools">IAs</string>
+    <string name="tab_title_news">Noticias</string>
+    <string name="tab_title_favorites">Favoritos</string>
+    <string name="action_try_now">Probar ahora</string>
+    <string name="label_search_ai">Buscar IAs</string>
+    <string name="label_no_favorites">Aún no tienes IAs favoritas.</string>
+    <string name="label_recommendations">Recomendaciones de hoy</string>
+    <string name="label_top_ai">Top IAs</string>
+    <string name="error_loading">No pudimos cargar los datos. Revisa tu conexión.</string>
+</resources>
