@@ -1,0 +1,14 @@
+## Copy this file to local.properties and replace the placeholder values.
+## Do NOT commit your real secrets.
+
+sdk.dir=/path/to/Android/Sdk
+APP_ADMOB_APP_ID=ca-app-pub-your-app-id
+ADMOB_BANNER_UNIT_ID=ca-app-pub-your-banner-id
+ADMOB_INTERSTITIAL_UNIT_ID=ca-app-pub-your-interstitial-id
+BILLING_MONTHLY_PRODUCT_ID=flowpulse.pro.monthly
+BILLING_LIFETIME_PRODUCT_ID=flowpulse.pro.lifetime
+FIREBASE_PROJECT_ID=your-firebase-project-id
+FCM_SERVER_KEY=your-fcm-server-key
+PLAY_LICENSE_TESTER=gmail@example.com
+N8N_SAMPLE_INSTANCE_URL=https://your-n8n-instance.example
+N8N_SAMPLE_TOKEN=your-n8n-api-token
