@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlowPulse for n8n</string>
+    <string name="default_notification_channel_id">flowpulse_alerts</string>
+    <string name="default_notification_channel_name">n8n alerts</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="error_generic">An unexpected error occurred.</string>
+    <string name="onboarding_title_1">Control n8n on the go</string>
+    <string name="onboarding_body_1">Monitor workflows and executions in real time with FlowPulse.</string>
+    <string name="onboarding_title_2">Smart alerts</string>
+    <string name="onboarding_body_2">Build local rules and receive push or fallback notifications.</string>
+    <string name="onboarding_title_3">Secure and professional</string>
+    <string name="onboarding_body_3">Encryption, biometrics, and multi-instance profiles for teams.</string>
+</resources>

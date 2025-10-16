@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlowPulse for n8n</string>
+    <string name="default_notification_channel_id">flowpulse_alerts</string>
+    <string name="default_notification_channel_name">Alertas n8n</string>
+    <string name="action_retry">Reintentar</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="error_generic">Ha ocurrido un error inesperado.</string>
+    <string name="onboarding_title_1">Controla n8n desde el móvil</string>
+    <string name="onboarding_body_1">Monitoriza workflows y ejecuciones en tiempo real con FlowPulse.</string>
+    <string name="onboarding_title_2">Alertas inteligentes</string>
+    <string name="onboarding_body_2">Crea reglas locales y recibe notificaciones push o fallback.</string>
+    <string name="onboarding_title_3">Seguro y profesional</string>
+    <string name="onboarding_body_3">Cifrado, biometría y perfiles multi-instancia para equipos.</string>
+</resources>
