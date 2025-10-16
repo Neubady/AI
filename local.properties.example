@@ -1,0 +1,7 @@
+# Copia este archivo como local.properties y rellena los valores
+sdk.dir=/path/to/Android/sdk
+ADMOB_APP_ID=ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy
+ADMOB_BANNER_ID=ca-app-pub-xxxxxxxxxxxxxxxx/zzzzzzzzzz
+ADMOB_INTERSTITIAL_ID=ca-app-pub-xxxxxxxxxxxxxxxx/aaaaaaaaaa
+BILLING_MONTHLY_ID=flowpulse.pro.monthly
+BILLING_LIFETIME_ID=flowpulse.pro.lifetime
